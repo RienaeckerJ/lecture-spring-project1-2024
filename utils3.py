@@ -5,4 +5,5 @@ def sum_of_even_squares(
     for num in numbers:
         if num % 2 == 0:
             sum_of_squares += num**2
+    print(sum_of_squares)
     return sum_of_squares

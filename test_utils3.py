@@ -13,5 +13,3 @@ def test_sum_of_even_squares():  # defining a test function to test the function
 
     # Test case 4: List with mixed numbers
     assert sum_of_even_squares([1, 2, 3, 4, 5, 6, 7, 8, 9]) == 120
-
-    print("All test cases passed successfully.")
