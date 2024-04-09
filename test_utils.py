@@ -4,7 +4,7 @@ from utils import substract  # importing the function substract from the file ut
 
 def test_add():  # defining a test function to test the function add
     assert add(1, 2) == 3
-    assert add(5, 5) == 11
+    assert add(5, 5) == 12
     assert add(3, 4) == 7
 
 
